@@ -28,12 +28,9 @@ The system manages environmental coverage via an active steering state-machine. 
 
 ## 🛠️ Build & Installation Instructions
 
-To build the complete system, clone this repository directly into the source space of a valid ROS workspace:
-
-```bash
 # Clone the repository
 cd ~/catkin_ws/src
-git clone [https://github.com/sidhant-barai/mobile-robot-engineering.git](https://github.com/sidhant-barai/mobile-robot-engineering.git)
+git clone https://github.com/sidhant-barai/mobile-robot-engineering.git
 
 # Build the unified workspace package
 cd ~/catkin_ws
