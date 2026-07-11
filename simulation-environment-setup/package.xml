@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>acs6121</name>
+  <name>mobile_robot_nav</name>
   <version>0.0.0</version>
-  <description>The acs6121 package</description>
+  <description>Autonomous mobile robotics navigation framework featuring kinematic mapping</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="student@todo.todo">student</maintainer>
+  <maintainer email="sidhantmb@gmail.com">Sidhant Manoj Barai</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
